@@ -1,0 +1,7 @@
+1. Download Jmeter https://jmeter.apache.org/download_jmeter.cgi 
+2. Download Java SDK 8 up https://www.oracle.com/ph/java/technologies/javase/javase-jdk8-downloads.html
+3. Download Jmeter jar file (uploaded here)
+4. Transfer the JMX file and JAR file in the apache jmeter "BIN" folder
+5. Open the Jmeter meter using the JAR file in the BIN folder
+6. Open the JMX file
+7. Click "Run" button
